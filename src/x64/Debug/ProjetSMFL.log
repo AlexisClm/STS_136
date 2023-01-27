@@ -1,0 +1,4 @@
+﻿  loadConfig.c
+C:\Users\Alexis\Documents\Créajeux\Prog 1\Perso\Prog 2D\SFML\STS 136\ProjetSMFL\loadConfig.c(34,21): warning C4477: 'fscanf' : la chaîne de format '%d' nécessite un argument de type 'int *', mais l'argument variadique 1 est de type 'unsigned char *'
+C:\Users\Alexis\Documents\Créajeux\Prog 1\Perso\Prog 2D\SFML\STS 136\ProjetSMFL\loadConfig.c(34,21): message : utilisez '%hhd' dans la chaîne de format
+  ProjetSMFL.vcxproj -> C:\Users\Alexis\Documents\Créajeux\Prog 1\Perso\Prog 2D\SFML\STS 136\x64\Debug\ProjetSMFL.exe
